@@ -3,4 +3,3 @@ node_modules
 *.log
 yarn-error.log
 demo/.expo
-dist
